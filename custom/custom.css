@@ -1,0 +1,20 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background-color: #Fff;
+    position: relative;
+
+    width: 500px;
+    height: 300px;
+
+    border-radius: 5%;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
