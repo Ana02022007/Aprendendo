@@ -3,6 +3,13 @@ html {
     margin: 0;
 }
 
+.body {
+    background-color: #0a0909;
+    background-image: url("./../image/batman-logo-branco.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 .container {
     background-color: #Fff;
     position: relative;
@@ -17,4 +24,8 @@ html {
     justify-content: center;
     justify-items: center;
     text-align: center;
+}
+
+.footer {
+    background-color: black;
 }
